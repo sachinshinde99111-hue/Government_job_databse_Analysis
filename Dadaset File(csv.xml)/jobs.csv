@@ -1,0 +1,101 @@
+job_id,job_title,dept_id,vacancies,salary
+101,Musician,2,49,46112
+102,Medical sales representative,4,99,44242
+103,Drilling engineer,1,82,79227
+104,Electrical engineer,4,44,40777
+105,"Administrator, local government",4,16,65265
+106,Licensed conveyancer,3,63,36725
+107,Restaurant manager,2,60,42973
+108,Youth worker,2,34,70267
+109,Chartered public finance accountant,4,82,29819
+110,"Scientist, physiological",4,43,32425
+111,Press photographer,1,77,23517
+112,Neurosurgeon,2,36,44155
+113,Research scientist (life sciences),3,22,66083
+114,Planning and development surveyor,4,63,49948
+115,Risk analyst,4,61,26147
+116,Aid worker,2,17,38458
+117,Art therapist,1,44,49192
+118,Private music teacher,4,74,66035
+119,"Production designer, theatre/television/film",4,21,29108
+120,Immunologist,4,40,77974
+121,Firefighter,2,30,29965
+122,"Exhibitions officer, museum/gallery",1,48,29334
+123,Communications engineer,3,60,51708
+124,"Engineer, petroleum",1,17,25069
+125,Recruitment consultant,4,75,27017
+126,"Lecturer, further education",2,14,31303
+127,Building control surveyor,2,30,56531
+128,Physiotherapist,4,65,33217
+129,Insurance underwriter,1,28,33230
+130,Stage manager,2,66,64496
+131,Corporate investment banker,1,71,69451
+132,"Social research officer, government",2,98,32495
+133,"Surveyor, land/geomatics",2,55,56640
+134,Location manager,3,35,31785
+135,Landscape architect,3,22,21070
+136,Company secretary,4,84,72446
+137,Electrical engineer,3,34,69391
+138,"Engineer, structural",2,15,61832
+139,Health visitor,2,46,53986
+140,"Administrator, arts",1,33,40795
+141,Town planner,3,44,31627
+142,Building services engineer,2,74,35116
+143,Media buyer,3,87,79785
+144,"Surveyor, commercial/residential",4,65,73418
+145,"Engineer, electronics",2,37,31748
+146,Chartered management accountant,3,28,44892
+147,Air cabin crew,2,86,45858
+148,Print production planner,1,36,42351
+149,Television camera operator,4,86,77132
+150,Medical illustrator,4,49,74138
+151,Learning mentor,4,98,36182
+152,"Therapist, drama",2,38,55801
+153,Hydrographic surveyor,4,93,36444
+154,"Scientist, physiological",4,88,50324
+155,"Scientist, water quality",1,28,30011
+156,Cartographer,2,81,74119
+157,Haematologist,3,23,25306
+158,"Journalist, newspaper",2,70,65968
+159,"Scientist, marine",2,32,37103
+160,Charity officer,2,31,27223
+161,Comptroller,4,37,49309
+162,Primary school teacher,1,19,57806
+163,Local government officer,4,16,40675
+164,Academic librarian,2,16,74256
+165,Tree surgeon,3,27,51111
+166,"Engineer, water",1,12,26520
+167,Teaching laboratory technician,1,90,74399
+168,Fashion designer,1,26,22223
+169,Company secretary,1,88,72533
+170,Environmental health practitioner,4,64,56955
+171,Dietitian,3,70,25233
+172,Air broker,2,88,33679
+173,"Programmer, multimedia",1,29,79774
+174,"Editor, film/video",1,63,47675
+175,TEFL teacher,2,15,61579
+176,Ceramics designer,4,10,42147
+177,Diagnostic radiographer,1,18,65441
+178,Environmental consultant,3,94,46262
+179,"Administrator, arts",2,68,72299
+180,"Editor, magazine features",4,26,28961
+181,Field seismologist,3,68,23260
+182,"Surveyor, commercial/residential",4,92,30934
+183,Technical brewer,1,76,26553
+184,Cartographer,2,30,28067
+185,Operations geologist,1,76,31071
+186,Hotel manager,2,59,44619
+187,Multimedia specialist,2,41,57626
+188,Theatre manager,4,87,47538
+189,"Teacher, special educational needs",1,78,46119
+190,Broadcast engineer,3,83,74859
+191,"Engineer, chemical",4,22,73171
+192,Early years teacher,4,44,57938
+193,Clinical biochemist,2,87,50980
+194,Insurance broker,4,65,46448
+195,Site engineer,3,57,57345
+196,"Engineer, civil (consulting)",1,30,24889
+197,Community education officer,4,77,67046
+198,"Education officer, community",1,62,51408
+199,IT sales professional,1,48,63669
+200,Conference centre manager,3,69,54228
